@@ -18,9 +18,9 @@
 | 5 | **Virginia Statute for Religious Freedom (1786)** | Trace the roots of church-state separation. | Why was religious freedom important to the Founders? |
 | 6 | **Articles of Confederation (1781)** | Examine the weaknesses of America's first national government. | Why was it hard for the U.S. to govern under the Articles? |
 | 7 | **Massachusetts Constitution (1780)** | Compare state constitutional models to the U.S. Constitution. | How did Massachusetts influence federal constitutional design? |
-| 8 | **U.S. Constitution (1787)** | Learn about the structure of U.S. government. | How does separation of powers work? What are checks and balances? |
+| 8 | **Federalist Papers (1787–88)** | Explore arguments for ratifying the Constitution. | What did Madison and Hamilton say about factions and government control? |
 | 9 | **Northwest Ordinance (1787)** | Understand U.S. expansion and early civic values. | Why was education included? What rights were protected? |
-| 10 | **Federalist Papers (1787–88)** | Explore arguments for ratifying the Constitution. | What did Madison and Hamilton say about factions and government control? |
+| 10 | **U.S. Constitution (1787)** | Learn about the structure of U.S. government. | How does separation of powers work? What are checks and balances? |
 | 11 | **Bill of Rights (1791)** | Identify key civil liberties in the first ten amendments. | Why were these rights added? Which do you use daily? |
 | 12 | **Washington’s Farewell Address (1796)** | Analyze early warnings about political division and foreign influence. | What dangers did Washington warn about? Are they still relevant? |
 | 13 | **Emancipation Proclamation (1863)** | Understand the Civil War as a constitutional crisis. | What did Lincoln actually declare? Why was it important legally and morally? |
