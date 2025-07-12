@@ -1,5 +1,5 @@
-🧾 Civic Education Syllabus: Founding Documents & the Birth of American Democracy
-Course Title: Foundations of American Civic Life: From Magna Carta to the Civil War Amendments
+# Civic Education Syllabus: Founding Documents & the Birth of American Democracy
+## Course Title: Foundations of American Civic Life: From Magna Carta to the Civil War Amendments
 Target Audience: Middle school, high school, community education, or global civic learners
 Lesson Format: One module per session (PDF + discussion)
 Goal: Build civic knowledge through key documents shaping rights, governance, and American identity.
