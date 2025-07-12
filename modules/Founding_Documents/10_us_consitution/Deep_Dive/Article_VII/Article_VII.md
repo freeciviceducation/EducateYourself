@@ -1,0 +1,5 @@
+# 📜 U.S. Constitution — Article VII: Ratification
+
+---
+
+The Ratification of the Conventions of nine States shall be sufficient for the Establishment of this Constitution between the States so ratifying the Same.
