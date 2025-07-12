@@ -63,4 +63,11 @@ Hamilton clarifies that the militia — composed of citizen-soldiers — should 
 
 ---
 
-## 🏁 Exit
+## 🏁 Exit Reflection
+
+> *“How can a government balance military readiness with civil freedom?”*  
+(Answer in 1–2 sentences or journal entry.)
+
+---
+
+✅ *This lesson is part of a people-powered civic education initiative, licensed under Creative Commons (CC BY 4.0).*
